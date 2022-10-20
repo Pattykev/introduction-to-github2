@@ -5,3 +5,7 @@
 ##### H5 HEADER
 ###### H6 HEADER
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [x] learn GitOps
+- [x] learn Github
+- [ ] solve coding exercises
+- [ ] solve coding problems
